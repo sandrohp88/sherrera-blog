@@ -1,9 +1,10 @@
-'use strict';
+'use strict'
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://sherrera.dev',
+  title: 'Blog by Sandro Herrera Pallares',
+  subtitle:
+    'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -23,10 +24,11 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Sandro Herrera Pallares',
+    photo: '/MeWaterfall.png',
+    bio: 'Software Engineer under construction',
     contacts: {
+      twitter: '#',
       email: '#',
       telegram: '#',
       twitter: '#',
@@ -35,4 +37,4 @@ module.exports = {
       vkontakte: '#'
     }
   }
-};
+}
