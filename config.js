@@ -1,8 +1,8 @@
 'use strict'
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
+  url: 'https://sherrera.dev',
+  title: 'Blog by Sandro Herrera Pallares',
   subtitle:
     'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
